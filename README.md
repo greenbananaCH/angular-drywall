@@ -55,7 +55,7 @@ page](https://github.com/jedireza/drywall/wiki/bcrypt-Installation-Trouble).
 
 ## Installation
 ```bash
-$ git clone https://github.com/arthurkao/angular-drywall.git && cd ./angular-drywall
+$ git clone https://github.com/greenbananaCH/angular-drywall && cd ./angular-drywall
 $ npm install
 $ cd client && bower install && cd ..
 ```
